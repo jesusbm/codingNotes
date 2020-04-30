@@ -1,4 +1,4 @@
 # codingNotes
 Random notes about programming
 
-[Stand alone Kotlin]
+See the Wiki section :)
